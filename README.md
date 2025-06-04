@@ -23,7 +23,7 @@
             <button type="submit">Next</button>
        
     
-</html>
+
 <style>
     body{
     background-color : rgb(0, 0, 0);
