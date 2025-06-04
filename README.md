@@ -33,3 +33,51 @@
     </center>
     
 </html>
+<style>
+    body{
+    background-color : rgb(0, 0, 0);
+}
+h2{
+    color: rgb(0, 0, 0);
+}
+input:hover{
+   background-color: rgb(226, 223, 223);
+}
+
+
+hr{
+    line-height: 100px;
+}
+
+.container{
+    border:1px solid rgb(0, 0, 0);
+    width:300px;
+    height:520px;
+    color:rgb(54, 54, 54);
+    border-radius: 25px;
+    box-shadow:0px 0px 20px rgba(255, 255, 255, 0.75);
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    background-color: rgb(136, 136, 136);
+}
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    background-color: rgb(5, 5, 5);
+    background-size: 100px;
+}
+button{
+    width: 176px;
+    height: 25px;
+    border-radius: 25px;
+    font-size: 15px;
+}
+input{
+    width: 176px;
+    height: 25px;
+    border-radius: 25px;
+    font-size: 15px;
+}
+</style>
