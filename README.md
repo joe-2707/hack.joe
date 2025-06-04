@@ -21,9 +21,7 @@
             <ul></ul>
             <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
             <button type="submit">Next</button>
-        </div>
-    </body>
-    </center>
+       
     
 </html>
 <style>
